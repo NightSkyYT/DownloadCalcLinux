@@ -151,7 +151,7 @@ int main() {
     } else {
         printf("\nWrong Code please try again or contact Owner!\n");
         stop();
-        system("cls");
+        system("clear");
         main();
 
 
